@@ -1,0 +1,18 @@
+.cardContainer {
+    display: flex;
+    flex-direction: column;
+    height: 258px;
+    border: 4px solid rgba(255, 255, 255, 0.2);
+    border-radius: 12px;
+    padding: 32px;
+    justify-content: flex-end;
+}
+
+.cardContainer p {
+    line-height: 24px;
+}
+
+.cardContainer span {
+    font-family: 'Poppins';
+    font-size: 32px;
+}
